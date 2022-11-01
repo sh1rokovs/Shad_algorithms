@@ -47,7 +47,7 @@ namespace own {
             }
         }
     }
-} // namespace own
+}
 
 int main() {
     size_t quantity;
